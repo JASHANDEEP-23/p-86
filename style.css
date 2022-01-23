@@ -1,0 +1,12 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#my_canvas
+{
+ border: 10px dotted pink;
+
+}
+
